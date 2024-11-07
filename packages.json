@@ -1,6 +1,7 @@
 [
     {
         "package": "IPDMR",
-        "url": "https://github.com/ku-awdc/IPDMR"
+        "url": "https://github.com/ku-awdc/IPDMR",
+        "branch" : "*release"
     }
 ]
