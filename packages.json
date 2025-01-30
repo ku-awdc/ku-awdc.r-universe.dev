@@ -3,10 +3,8 @@
         "package": "IPDMR",
         "url": "https://github.com/ku-awdc/IPDMR",
         "branch" : "*release"
-    }
-]
-
-[
+    },
+    
     {
         "package": "EpiLinx",
         "url": "https://github.com/ku-awdc/EpiLinx",
