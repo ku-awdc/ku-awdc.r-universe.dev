@@ -5,3 +5,11 @@
         "branch" : "*release"
     }
 ]
+
+[
+    {
+        "package": "EpiLinx",
+        "url": "https://github.com/ku-awdc/EpiLinx",
+        "branch" : "*release"
+    }
+]
