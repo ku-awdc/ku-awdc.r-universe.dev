@@ -6,6 +6,12 @@
     },
     
     {
+        "package": "koalas",
+        "url": "https://github.com/ku-awdc/koalas",
+        "branch" : "*release"
+    },
+    
+    {
         "package": "EpiLinx",
         "url": "https://github.com/ku-awdc/EpiLinx",
         "branch" : "*release"
