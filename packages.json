@@ -15,5 +15,11 @@
         "package": "EpiLinx",
         "url": "https://github.com/ku-awdc/EpiLinx",
         "branch" : "*release"
+    },
+    
+    {
+        "package": "PTBinteRface",
+        "url": "https://github.com/ku-awdc/PTBinteRface",
+        "branch" : "*release"
     }
 ]
