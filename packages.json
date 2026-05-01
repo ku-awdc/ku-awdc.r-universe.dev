@@ -6,6 +6,12 @@
     },
     
     {
+        "package": "qs",
+        "url": "https://github.com/ku-awdc/qs",
+        "branch" : "*release"
+    },
+    
+    {
         "package": "koalas",
         "url": "https://github.com/ku-awdc/koalas",
         "branch" : "*release"
