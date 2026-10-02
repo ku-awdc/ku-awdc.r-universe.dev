@@ -27,5 +27,18 @@
         "package": "PTBinteRface",
         "url": "https://github.com/ku-awdc/PTBinteRface",
         "branch" : "*release"
+    },
+    
+    {
+        "package": "rjags",
+        "url": "https://github.com/mdenwood/rjags",
+        "branch" : "*release"
+    },
+    
+    {
+        "package": "JAGSmodule",
+        "url": "https://github.com/mdenwood/JAGSmodule",
+        "branch" : "*release"
     }
+    
 ]
